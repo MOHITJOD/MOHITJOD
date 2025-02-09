@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MOHIT GIRI
-- 👀 I’m interested AI
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
