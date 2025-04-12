@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @MOHIT GIRI
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m Mohit Giri
+- I’m interested in Softwares
+- I’m currently learning Web-Dev
+  
+
 
 <!---
 MOHITJOD/MOHITJOD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
