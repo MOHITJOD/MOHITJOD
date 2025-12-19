@@ -1,6 +1,4 @@
 - Hi, I’m Mohit Giri
-- I’m interested in Softwares
-- I’m currently learning Web-Dev
   
 
 
